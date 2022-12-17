@@ -1,8 +1,3 @@
-// 1. Context API
-// 2. Redux
-// 3. MobX
-
-// 1. Context API
 import { createContext, useContext, useState } from "react";
 
 const UserContext = createContext();
